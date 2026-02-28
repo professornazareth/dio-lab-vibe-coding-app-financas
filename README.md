@@ -1,4 +1,4 @@
-# App de Organização de Finanças Pessoais
+# App de Organização de Finanças Pessoais do João
 
 ## Objetivo
 Criar um aplicativo de organização de finanças pessoais que funcione por meio de conversas em linguagem natural (voz e texto), com personalização de experiência e acessibilidade total.

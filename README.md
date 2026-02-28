@@ -130,3 +130,14 @@ ENDEREÇO WEB: https://quiet-controller.lovable.app
 
 ENDEREÇO PROJETO: https://lovable.dev/products/quiet-controller
 
+<img width="1440" height="858" alt="Captura de tela 2026-02-27 095521" src="https://github.com/user-attachments/assets/b5d65ef3-7c89-4c82-8d91-a71379154495" />
+<img width="1435" height="826" alt="Captura de tela 2026-02-28 193415" src="https://github.com/user-attachments/assets/cbd79576-b2ab-454c-8122-19710eddee13" />
+
+RESUMO:
+
+FINANÇA FÁCIL é um app IA comandado por chat de voz e de texto para organizar as finanças pessoais.
+
+REFLEXÃO:
+
+A IA é uma ferramenta útil, que demanda apenas prática para poder dominar.
+Nesse processo, é curioso ver que o resultado final realmente depende de como estruturamos nossa idéia e a transformamos em prompts eficazes.

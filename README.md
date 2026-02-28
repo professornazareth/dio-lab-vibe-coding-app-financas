@@ -71,3 +71,62 @@ Apps atuais exigem muita entrada manual e pouca personalização, o que desmotiv
 
 ## Plataforma
 Versão para smartphone e desktop.
+
+# Validação Inicial do MVP - App de Finanças Pessoais
+
+## Objetivo da Validação
+Confirmar se as principais funcionalidades do MVP atendem às necessidades básicas do usuário iniciante no controle financeiro.
+
+## Etapas de Validação
+
+### 1. Cadastro e Login
+- Testar criação de conta com nome, e-mail e senha.
+- Validar login seguro e recuperação de senha.
+
+### 2. Registro de Despesas e Receitas
+- Inserir uma despesa via texto.
+- Inserir uma despesa via voz.
+- Conferir se o app reconhece e classifica automaticamente a transação.
+
+### 3. Contas a Pagar
+- Definir uma conta com data futura.
+- Conferir se aparece em vermelho (pendente).
+- Marcar como paga e verificar se muda para verde.
+
+### 4. Dashboard
+- Visualizar saldo atualizado após registrar entradas e saídas.
+- Conferir se categorias aparecem corretamente.
+
+### 5. Configurações
+- Alterar entre modo claro e escuro.
+- Testar paleta de cores no modo claro.
+- Ativar e desativar voz de saída.
+- Personalizar voz (masculina/feminina, faixa etária).
+
+### 6. Metas Financeiras
+- Criar uma meta simples (ex.: juntar R$ 500).
+- Registrar despesas e verificar se o progresso da meta é atualizado.
+
+## Critérios de Sucesso
+- Usuário consegue registrar despesas e receitas sem dificuldade.
+- Contas a pagar são exibidas com cores corretas (verde/vermelho).
+- Dashboard mostra saldo e categorias de forma clara.
+- Configurações de voz e tema funcionam sem erros.
+- Metas financeiras apresentam progresso visual.
+
+## Feedback Inicial
+- Coletar impressões dos usuários sobre facilidade de uso.
+- Perguntar se preferem interação por voz, texto ou ambos.
+- Avaliar se relatórios e gráficos são compreensíveis.
+
+## Próximos Passos
+- Ajustar interface conforme feedback.
+- Expandir relatórios e dashboards.
+- Incluir mais integrações bancárias e automações.
+
+NOME FANTASIA PROVISÓRIO DO APLICATIVO DE FINANÇAS PESSOAIS: FINANÇA FÁCIL
+
+ENDEREÇO WEB: https://quiet-controller.lovable.app
+
+ENDEREÇO PROJETO: https://lovable.dev/products/quiet-controller
+

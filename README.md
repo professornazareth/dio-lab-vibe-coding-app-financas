@@ -128,8 +128,6 @@ NOME FANTASIA PROVISÓRIO DO APLICATIVO DE FINANÇAS PESSOAIS: FINANÇA FÁCIL
 
 ENDEREÇO WEB: https://quiet-controller.lovable.app
 
-ENDEREÇO PROJETO: https://lovable.dev/products/quiet-controller
-
 <img width="1440" height="858" alt="Captura de tela 2026-02-27 095521" src="https://github.com/user-attachments/assets/b5d65ef3-7c89-4c82-8d91-a71379154495" />
 <img width="1435" height="826" alt="Captura de tela 2026-02-28 193415" src="https://github.com/user-attachments/assets/cbd79576-b2ab-454c-8122-19710eddee13" />
 
